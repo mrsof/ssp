@@ -1,3 +1,4 @@
+********** UPDATED WITH ORIGINAL DATATABLES SSP.CLASS.PHP CHANGES ****************
 
 ##Customized SSP Class For [Datatables](http://datatables.net/) Library
 
